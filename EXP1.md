@@ -1,7 +1,7 @@
 # Ex.No: 1 Write programs in Python Language to demonstrate the working of followingconstructs with possible test cases: a) do…while b) while…do c) if …else d) switch e) for 
 
 ### DATE: 30-08-2024                                                                           
-### REGISTER NUMBER : 212222040099
+### REGISTER NUMBER : 212222040161
 
 ### AIM:  
 To write python programs for do…while, while, for, switch and if…else and test with possible test Cases 
@@ -89,29 +89,29 @@ iterate()
 ### Output:
 ### do...while:
 
-![exp1a_!](https://github.com/user-attachments/assets/2827f6f1-3670-463d-9cec-ce4260766f3b)
-
-![exp 1a_2](https://github.com/user-attachments/assets/330691bd-1338-48d8-9adf-56d0501a89bf)
+![STL EXP1(I)](https://github.com/user-attachments/assets/9c3bc992-c639-4b4a-83d3-78044da59451)
 
 
 ### while...do:
 
-![exp 1b](https://github.com/user-attachments/assets/e250180b-5af8-47fe-a050-1a738c0503fb)
+![STL EXP1-(II(1))](https://github.com/user-attachments/assets/4da62cd2-dc9a-4a8a-9678-17b3fb4a06a6)
+![STL EXP1-(II(2))](https://github.com/user-attachments/assets/c2db5137-40ab-4fad-865e-0e5d011431b2)
 
 
 ### switch:
 
-![exp 1c](https://github.com/user-attachments/assets/df6b1af4-4d46-432a-80c2-7f6f1c4ac78f)
+![STL EXP1-(III)](https://github.com/user-attachments/assets/4e4fac77-ff45-4afa-b694-7fd63be3d614)
 
 
 ### if..else:
 
-![exp 1d](https://github.com/user-attachments/assets/5c0d22c0-3a1f-435b-90b3-0c0be05aafd3)
+![STL EXP1-(IV)](https://github.com/user-attachments/assets/12666a67-e4b8-4a14-a53a-24915549bdb8)
 
 
 ### for:
 
-![exp1e (2)](https://github.com/user-attachments/assets/3ff67dc2-1417-4787-a481-18bd512f02b5)
+![STL EXP1-(V)](https://github.com/user-attachments/assets/c639bcd1-5a84-4b8e-8710-63aaf6c4ebb9)
+
 
 ### Result:
 Thus, the python program to demonstrate the working of given constructs is implemented and the output is verified successfully.
