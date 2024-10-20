@@ -47,18 +47,6 @@ else:
     print("Enter a Positive Number")
 
 ```
-
-
-
-
-
-
-
-
-
-
-
-
 ### Output:
 
 ![STL EXP3](https://github.com/user-attachments/assets/63e5ea9b-ee09-459c-9906-0328604c27e7)
